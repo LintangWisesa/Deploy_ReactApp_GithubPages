@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Selamat Datang!</h1>
         </header>
         <p className="App-intro">
-          Ini tes deploy React ke Github Pages.
+          Ini tes deploy React ke Github Pages!
         </p>
       </div>
     );
